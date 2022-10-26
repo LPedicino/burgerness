@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/burgerness/static/css/main.7ab00161.css",
+    "main.js": "/burgerness/static/js/main.68f0fe3e.js",
+    "index.html": "/burgerness/index.html",
+    "main.7ab00161.css.map": "/burgerness/static/css/main.7ab00161.css.map",
+    "main.68f0fe3e.js.map": "/burgerness/static/js/main.68f0fe3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ab00161.css",
+    "static/js/main.68f0fe3e.js"
+  ]
+}
