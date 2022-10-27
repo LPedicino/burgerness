@@ -9,7 +9,7 @@ const Products = () => {
       className="max-w-[1640px] h-[100%] lg:h-screen m-auto px-4 py-12"
     >
       <div>
-        <h1 className="text-red-700  text-5xl md:text-7xl text-center my-10 mt-[7rem]">
+        <h1 className="text-red-700  text-4xl md:text-6xl font-bold text-center my-10 mb-[5%] mt-[7rem]">
           Top Tier Burgers
         </h1>
       </div>

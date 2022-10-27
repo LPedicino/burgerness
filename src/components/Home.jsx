@@ -10,7 +10,7 @@ const Home = () => {
         <h1 className="text-5xl mt-10 md:mt-0 sm:text-8xl font-bold text-black">
           Burger<span className="font-extrabold text-red-700">ness</span>
         </h1>
-        <h2 className="text-2xl sm:text-4xl my-4 text-red-700">
+        <h2 className="text-xl sm:text-3xl my-4 text-red-700">
           The love for smash burgers in one place
         </h2>
 
