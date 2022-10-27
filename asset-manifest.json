@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/burgerness/static/css/main.42d39d78.css",
-    "main.js": "/burgerness/static/js/main.21b8dfb0.js",
+    "main.css": "/burgerness/static/css/main.25f1911a.css",
+    "main.js": "/burgerness/static/js/main.1084f783.js",
     "index.html": "/burgerness/index.html",
-    "main.42d39d78.css.map": "/burgerness/static/css/main.42d39d78.css.map",
-    "main.21b8dfb0.js.map": "/burgerness/static/js/main.21b8dfb0.js.map"
+    "main.25f1911a.css.map": "/burgerness/static/css/main.25f1911a.css.map",
+    "main.1084f783.js.map": "/burgerness/static/js/main.1084f783.js.map"
   },
   "entrypoints": [
-    "static/css/main.42d39d78.css",
-    "static/js/main.21b8dfb0.js"
+    "static/css/main.25f1911a.css",
+    "static/js/main.1084f783.js"
   ]
 }
