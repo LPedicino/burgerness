@@ -1,5 +1,5 @@
 import React from "react";
-import { FaFacebookSquare, FaGithub, FaInstagram } from "react-icons/fa";
+import { FaFacebookSquare, FaWhatsapp, FaInstagram } from "react-icons/fa";
 
 const AboutUS = () => {
   return (
@@ -37,6 +37,16 @@ const AboutUS = () => {
                   <FaInstagram size={35} />
                 </a>
               </li>
+              <li className="w-[25px] h-[25px] rounded-full flex flex-row items-center hover:scale-110 duration-300 mt-2">
+                {" "}
+                <a
+                  className="grid items-center w-full text-[#25D366]"
+                  href=" https://wa.me/+5493513965151 "
+                  target="blank_"
+                >
+                  <FaWhatsapp size={35} />
+                </a>
+              </li>
               <li className="w-[25px] h-[25px] rounded-full flex flex-row items-center  hover:scale-110 duration-300 mt-2">
                 {" "}
                 <a
@@ -45,16 +55,6 @@ const AboutUS = () => {
                   target="blank_"
                 >
                   <FaFacebookSquare className="text-[#3b5998]" size={35} />
-                </a>
-              </li>
-              <li className="w-[25px] h-[25px] rounded-full flex flex-row items-center hover:scale-110 duration-300 mt-2">
-                {" "}
-                <a
-                  className="grid items-center w-full text-black"
-                  href="https://github.com/LPedicino"
-                  target="blank_"
-                >
-                  <FaGithub size={35} />
                 </a>
               </li>
             </ul>
