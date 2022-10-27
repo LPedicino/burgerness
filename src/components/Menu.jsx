@@ -7,7 +7,7 @@ const Menu = () => {
 
       <div className="max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full">
         <div>
-          <h1 className="text-red-700 text-5xl md:text-7xl mt-11 mb-[100px] text-center">
+          <h1 className="text-red-700 text-5xl md:text-7xl mt-[5rem] mb-[100px] text-center">
             Our Menu
           </h1>
           <ul className="w-full grid grid-cols-2 gap-10">
