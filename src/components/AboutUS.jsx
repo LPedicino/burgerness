@@ -15,11 +15,11 @@ const AboutUS = () => {
           2020 putting all the effort to get the best, tastiest and original
           smash burger.
         </h2>
-        <p className="text-black text-2xl">Thanks for your visit </p>
+        <p className="text-black text-lg md:text-2xl">Thanks for your visit </p>
 
         <div>
           <img
-            className="rounded-[5rem] lg:w-[850px] md:w-[550px] w-[400px] mt-7 ml-[6%] md:ml-0"
+            className="rounded-[5rem] lg:w-[850px] md:w-[550px] w-[320px] mt-7 ml-0 md:ml-0"
             src="https://gyazo.com/70c3116ff3c461ad73cf83599113a498.jpg"
             alt=""
           />

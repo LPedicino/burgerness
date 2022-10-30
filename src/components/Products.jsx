@@ -16,7 +16,7 @@ const Products = () => {
 
       {/* Display Foods */}
 
-      <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 pt-4 mt-10 ml-[7%] md:ml-0">
+      <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 pt-4 mt-10 ml-[1%] md:ml-0">
         {foods.map((item, index) => (
           <div
             key={index}

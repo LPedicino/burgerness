@@ -11,7 +11,7 @@ const Menu = () => {
             Our Menu
           </h1>
           <ul className="w-full grid grid-cols-2 gap-10">
-            <li className="text-black font-bold text-4xl">
+            <li className="text-black font-bold text-3xl md:text-4xl">
               Classic{" "}
               <p className="text-lg mt-4">
                 5 Oz burger of selected meat blend, lettuce, tomatoes, grilled
@@ -19,49 +19,49 @@ const Menu = () => {
               </p>
             </li>
 
-            <li className="text-black font-bold text-4xl">
+            <li className="text-black font-bold text-3xl md:text-4xl">
               Cheese classic{" "}
               <p className="text-lg mt-4">
                 5 Oz burger of selected meat blend, 2x cheddar, bacon, tomatoes,
                 and mayonnaise
               </p>
             </li>
-            <li className="text-black font-bold text-4xl">
+            <li className="text-black font-bold text-3xl md:text-4xl">
               Crunchy Onion
               <p className="text-lg mt-4">
                 5 Oz burger of selected meat blend, crispy onion, cheddar,
                 bacon, tomatoes and mayonnaise
               </p>
             </li>
-            <li className="text-black font-bold text-4xl">
+            <li className="text-black font-bold text-3xl md:text-4xl">
               Big Duo{" "}
               <p className="text-lg mt-4">
                 2x 3.5 Oz burgers of selected meat blend, lettuce, pickle,
                 cheddar and thousand island sauce
               </p>
             </li>
-            <li className="text-black font-bold text-4xl">
+            <li className="text-black font-bold text-3xl md:text-4xl">
               Patty Melt
               <p className="text-lg mt-4">
                 2x 3.5 Oz burgers of selected meat, 2x bread toasted on
                 mayonnaise, 3x cheddar and caramelized onion
               </p>
             </li>
-            <li className="text-black font-bold text-4xl">
-              Smashnifica{" "}
+            <li className="text-black font-bold text-3xl md:text-4xl">
+              Smash nifica{" "}
               <p className="text-lg mt-4">
                 5 Oz burger of selected meat blend, lettuce, tomatoes, onion,
                 ketchup and mayonnaise{" "}
               </p>
             </li>
-            <li className="text-black font-bold text-4xl">
+            <li className="text-black font-bold text-3xl md:text-4xl">
               Duo Cheese{" "}
               <p className="text-lg mt-4">
                 2x 3.5 Oz burgers of selected meat, 4x cheddar, extra bacon,
                 tomatoes and mayonnaise{" "}
               </p>{" "}
             </li>
-            <li className="text-black font-bold text-4xl">
+            <li className="text-black font-bold text-3xl md:text-4xl">
               Special Spicy{" "}
               <p className="text-lg mt-4">
                 5 Oz burger of selected meat blend, purple onion, cheddar, bacon
