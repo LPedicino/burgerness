@@ -14,9 +14,9 @@ const Home = () => {
           The love for smash burgers in one place
         </h2>
 
-        <div>
+        <div className="">
           <img
-            className="rounded-[5rem] lg:w-[800px] md:w-[550px] w-[320px] mt-11 ml-auto md:ml-0"
+            className="rounded-xl lg:w-[900px] md:w-[550px] w-[360px] mt-11 ml-auto md:ml-0"
             src="https://gyazo.com/ecb9377f1457e3a9c9197d0aae0b0a93.jpg"
             alt=""
           />
